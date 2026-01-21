@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: PressStart2p;
-    src: url(fonts/PressStart2P-Regular.ttf);
+    src: url(PressStart2P-Regular.ttf);
 }
 body{
     background-image: linear-gradient(60deg, black, rgb(103, 47, 255));
@@ -58,5 +58,6 @@ header h2{
     cursor: pointer;
 
 }
+
 
  
